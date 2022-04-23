@@ -1,5 +1,5 @@
 {
-    "name": "LuciferMoringstar_Robot",
+    "name": "private-files",
     "description": "Super Fast Telegram Auto Filter Bot",
     "logo": "https://telegra.ph/file/aabbe1b1f267be91206c5.jpg",
     "stack": "container",
@@ -10,7 +10,7 @@
       "filter",
       "bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
+    "website": "https://t.me/Rangermoviess",
     "repository": "https://github.com/Hprheryttt/private-Files",
     "env": {
         "BOT_TOKEN": {
